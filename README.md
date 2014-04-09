@@ -1,4 +1,4 @@
 pw-buggenie-theme
 =================
 
-PlaceWorkers-Theme for The Bug Genie http://www.thebuggenie.com/
+[PlaceWorkers](http://www.placeworkers.com/)-Theme for [The Bug Genie](http://www.thebuggenie.com/).
